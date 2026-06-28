@@ -1,7 +1,7 @@
 # CS 340 Project Two - Grazioso Salvare Dashboard
 
 <p align="center">
-  <img src="readme_assets_github/grazioso-salvare-logo.png" alt="Grazioso Salvare logo" width="180">
+  <img src="grazioso salvare logo.png" alt="Grazioso Salvare logo" width="180">
 </p>
 
 <p align="center">
