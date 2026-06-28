@@ -39,19 +39,19 @@ When a filter is selected, the dashboard updates the table, breed pie chart, and
 
 ### Starting State / Reset
 
-![Starting State / Reset] <img src="Screenshot 1.png" >
+<img src="Screenshot 1.png" >
 
 ### Water Rescue Filter
 
-![Water Rescue Filter](readme_assets/screenshot-water-rescue.png)
+<img src="Screenshot 2.png" >
 
 ### Mountain or Wilderness Rescue Filter
 
-![Mountain or Wilderness Rescue Filter](readme_assets/screenshot-mountain-wilderness-rescue.png)
+<img src="Screenshot 3.png" >
 
 ### Disaster or Individual Tracking Filter
 
-![Disaster or Individual Tracking Filter](readme_assets/screenshot-disaster-individual-tracking.png)
+<img src="Screenshot 4.png" >
 
 ## Tools and Technologies Used
 
