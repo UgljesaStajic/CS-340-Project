@@ -39,7 +39,7 @@ When a filter is selected, the dashboard updates the table, breed pie chart, and
 
 ### Starting State / Reset
 
-![Starting State / Reset](Screenshot 1.png)
+![Starting State / Reset] <img src="Screenshot 1.png" >
 
 ### Water Rescue Filter
 
